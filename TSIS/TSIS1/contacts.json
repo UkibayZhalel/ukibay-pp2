@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Carol White",
+        "email": "carol@gmail.com",
+        "birthday": "1992-01-30",
+        "group_name": "Family",
+        "phone_data": [
+            {
+                "phone": "+1-555-0103",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "David Brown",
+        "email": "david@gmail.com",
+        "birthday": "1988-11-05",
+        "group_name": "Friend",
+        "phone_data": [
+            {
+                "phone": "+1-555-0104",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Alice Smith",
+        "email": "alice@gmail.com",
+        "birthday": "1990-04-15",
+        "group_name": "Friend",
+        "phone_data": [
+            {
+                "phone": "+1-555-0101",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Eve Davis",
+        "email": "eve@work.com",
+        "birthday": "1995-03-18",
+        "group_name": "Work",
+        "phone_data": [
+            {
+                "phone": "+1-555-0105",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Bob Johnson",
+        "email": "bob@work.com",
+        "birthday": "1985-07-22",
+        "group_name": "Work",
+        "phone_data": [
+            {
+                "phone": "+1-555-0102",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "ukibay",
+        "email": "ukibay@gmail.com",
+        "birthday": "2007-07-21",
+        "group_name": "work",
+        "phone_data": [
+            {
+                "phone": "87769665371",
+                "type": "work"
+            }
+        ]
+    }
+]
